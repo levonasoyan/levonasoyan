@@ -2,4 +2,4 @@
 - 👀 I’m interested in React JS / TypeScript
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me? mordegarn@gmail.com
+- 📫 How to reach me? levonasoyan1@gmail.com
